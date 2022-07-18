@@ -1,1 +1,1 @@
-{ "version":"2.4.0", "longversion":24000, "released":1657559988, "updateurl":"https:\/\/forum.invisionize.pl\/files\/file\/840-k4-info-to-postcontainer\/" }
+{ "version":"2.4.1", "longversion":24100, "released":1658186100, "updateurl":"https:\/\/forum.invisionize.pl\/files\/file\/840-k4-info-to-postcontainer\/" }
